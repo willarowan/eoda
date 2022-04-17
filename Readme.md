@@ -4,3 +4,5 @@
 [Oberlin College](www.oberlin.edu)  
 [School for International Training](www.sit.edu)  
 [Western Washington University](www.wwu.edu)  
+## Research Interests  
+Geoscience Education!  
